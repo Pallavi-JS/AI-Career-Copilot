@@ -24,7 +24,7 @@ AI-powered resume analysis and job matching system built using Python and Stream
 ## Deployment
 
 Live App:
-PASTE_YOUR_STREAMLIT_LINK_HERE
+(https://ai-career-copilot-js9lhudngfp5jgg5bldea4.streamlit.app/)
 
 ## Author
 
